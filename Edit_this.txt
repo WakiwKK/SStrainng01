@@ -1,3 +1,6 @@
+i am golf หิวข้าว
+I am new
+i am OTI
 I am New
 I am OTI
 I am Whale
@@ -7,9 +10,16 @@ I am Wat
 I am new
 i am OTI 
 hello world
+I' M GAY
 I am Bank
 I am Num
 i am sim
 Don't be worry. why? cus I here (Krot)
 i newwww
+<<<<<<< HEAD
 I am MARK
+=======
+
+ผมรัก ลุงค้าบบบบบบบ
+NEVER NO DOLLARS 
+>>>>>>> 1c4c67fb44c8898b2cbd406e654b82e321de4b0f
